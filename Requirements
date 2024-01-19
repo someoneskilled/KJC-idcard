@@ -1,0 +1,4 @@
+- Python 3.x
+- OpenCV (`pip install opencv-python`)
+- Tesseract OCR (`pip install pytesseract`)
+- Pillow (`pip install Pillow`)
