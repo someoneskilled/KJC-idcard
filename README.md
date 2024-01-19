@@ -2,6 +2,8 @@
 
 This simple Python script uses OpenCV and Tesseract OCR to recognize text from a live camera feed. It is specifically designed to identify and display lines of text matching a certain pattern, useful for extracting information from ID cards.
 
+![Screenshot 2024-01-08 103324](https://github.com/someoneskilled/KJC-idcard/assets/134536864/95740e88-bc56-4950-8bd7-7d39bafb06cf)
+
 ## Installation
 
 1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
